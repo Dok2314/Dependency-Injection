@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Src\\": "Src/"
+    }
+  },
+  "require": {
+    "larapack/dd": "^1.1",
+    "nesbot/carbon": "^3.5"
+  }
+}
