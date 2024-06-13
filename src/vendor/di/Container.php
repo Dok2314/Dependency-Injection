@@ -30,7 +30,7 @@ class Container
     /**
      * @throws Exception
      */
-    protected function getDependencies($parameters)
+    protected function getDependencies($parameters): array
     {
         $dependencies = [];
 
